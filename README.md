@@ -1,7 +1,7 @@
 # C# Examples
 
 ## Description
-Various examples of C# coding that may or may not be useful for people who are new to Visual Studio.
+Various small projects written in C#.
 
 ## SqlCsv
 ![SqlCsvExample ScreenShot](/ScreenShots/SqlCsv.png?raw=true)
