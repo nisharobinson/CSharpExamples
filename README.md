@@ -1,4 +1,4 @@
-# C# Examples
+# C# Projects
 
 ## Description
 Various small projects written in C#.
